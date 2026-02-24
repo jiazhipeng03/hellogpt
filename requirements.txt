@@ -1,0 +1,7 @@
+sounddevice
+numpy
+websocket-client
+python-dotenv
+vosk
+colorama
+
