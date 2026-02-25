@@ -1,3 +1,6 @@
+需要购买audio token才能继续，中止了。
+https://openai.com/zh-Hans-CN/api/pricing/
+
 # hellogpt
 
 Windows Python 原型：本地 Vosk 监听唤醒词 `你好GPT`，唤醒后连接 OpenAI Realtime WebSocket 做语音对话；在对话中识别到 `再见GPT` 后退出会话并回到待机。
